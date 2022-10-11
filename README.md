@@ -4,7 +4,7 @@
 
 ---
 
-### Language and Tools:
+### Languages and Tools:
 <img alt="Java" align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img alt"MySQL" align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img alt="JavaScript" align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>          
